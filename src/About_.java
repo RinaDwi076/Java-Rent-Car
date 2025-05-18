@@ -48,12 +48,13 @@ public class About_ extends javax.swing.JInternalFrame {
         jPanel12 = new javax.swing.JPanel();
         jLabel8 = new javax.swing.JLabel();
         jPanel13 = new javax.swing.JPanel();
+        jPanel14 = new javax.swing.JPanel();
 
         setBackground(new java.awt.Color(204, 204, 0));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel15.setFont(new java.awt.Font("Arial", 1, 55)); // NOI18N
-        jLabel15.setForeground(new java.awt.Color(51, 51, 255));
+        jLabel15.setForeground(new java.awt.Color(0, 0, 102));
         jLabel15.setText("Kelompok 6");
         getContentPane().add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 70, 320, 60));
 
@@ -99,6 +100,7 @@ public class About_ extends javax.swing.JInternalFrame {
         getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 250, 1030, 110));
 
         jPanel3.setBackground(new java.awt.Color(204, 204, 0));
+        jPanel3.setForeground(new java.awt.Color(0, 0, 102));
         getContentPane().add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(-10, -10, 1040, 290));
 
         jPanel4.setBackground(new java.awt.Color(204, 204, 0));
@@ -117,6 +119,7 @@ public class About_ extends javax.swing.JInternalFrame {
         jLabel8.setBackground(new java.awt.Color(204, 204, 0));
         getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(870, 110, 70, 150));
         getContentPane().add(jPanel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(720, 280, -1, -1));
+        getContentPane().add(jPanel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(710, 110, -1, -1));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -178,6 +181,7 @@ public class About_ extends javax.swing.JInternalFrame {
     private javax.swing.JPanel jPanel11;
     private javax.swing.JPanel jPanel12;
     private javax.swing.JPanel jPanel13;
+    private javax.swing.JPanel jPanel14;
     private javax.swing.JPanel jPanel2;
     private javax.swing.JPanel jPanel3;
     private javax.swing.JPanel jPanel4;
